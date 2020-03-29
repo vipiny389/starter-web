@@ -19,3 +19,5 @@ Deployment
 Adding copyright content
 
 ## How To Contribute
+
+Adding how to contribute text
