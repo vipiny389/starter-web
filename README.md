@@ -16,8 +16,8 @@ Deployment
 
 ##Copyright
 
-Adding copyright content
-
+Adding copyright content.Copyright is needed to protect
+ our website.
 ## How To Contribute.
 
 Adding how to contribute text
