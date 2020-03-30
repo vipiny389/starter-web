@@ -9,7 +9,7 @@ This is a example to show variosu parts of git repositry and various commands us
 ## Purpose
 
 As stated above,purpose of this git repositry is show basic demo.
-
+For rebasing
 ## Deployment
 
 Deployment
