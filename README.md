@@ -23,3 +23,5 @@ Adding copyright content.Copyright is needed to protect
 Adding how to contribute text
 
 Another line for emergency fix.
+
+Another line for v1.2 tagging
